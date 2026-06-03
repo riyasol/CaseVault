@@ -128,8 +128,6 @@ Mobile responsive enhancements.
 Cloud deployment and scalability improvements.
 Real time notification system.
 
-## Screenshots
 
-Screenshots demonstrating the system functionality are available in the Screenshots directory.
 
 
